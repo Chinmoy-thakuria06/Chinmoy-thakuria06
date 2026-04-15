@@ -1,7 +1,7 @@
 <!-- ===== ANIMATED HEADER BANNER ===== -->
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Hey%20There!%20I'm%20[YOUR%20NAME]%20👋&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Dev%20•%20AI/ML%20Engineer%20•%20UI/UX%20Designer%20•%20Cinematographer&descAlignY=58&descSize=16&descColor=aaaaaa)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Hey%20There!%20I'm%20[Chinmoy-thakuria06]%20👋&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Dev%20•%20AI/ML%20Engineer%20•%20UI/UX%20Designer%20•%20Cinematographer&descAlignY=58&descSize=16&descColor=aaaaaa)
 
 <!-- ===== ANIMATED TYPING SUBTITLE ===== -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Building+Full-Stack+Applications+%F0%9F%9A%80;Engineering+AI+%2F+ML+Solutions+%F0%9F%A7%A0;Designing+Beautiful+UI%2FUX+%F0%9F%8E%A8;Crafting+Cinematic+Visual+Stories+%F0%9F%8E%AC;Fluent+in+Every+Programming+Language+%F0%9F%92%BB;B.Tech+CSE+%40+Assam+Royal+Global+University+%F0%9F%8E%93)](https://git.io/typing-svg)
